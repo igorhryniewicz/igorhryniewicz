@@ -5,4 +5,4 @@ This project is an elective part of university's course about Multivariate Data 
 This project is a part of the kaggle.com competition, which goal was to predict the auction sale price for a piece of heavy equipment to create a "blue book" for bulldozers.
 
 # *Apple Quality* - ***EDA*** and ***Classification*** Models - [link](https://www.kaggle.com/code/igiengineer/simple-eda-and-classification-models)
-This project is a part of the kaggle.com dataset, which goal was to predict whether the apple is good or bad quality.
+This project is a part of the kaggle.com dataset, which goal was to predict whether the apple quality is good or bad.
