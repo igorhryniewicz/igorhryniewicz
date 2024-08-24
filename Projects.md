@@ -6,3 +6,6 @@ This project is a part of the kaggle.com competition, which goal was to predict 
 
 # *Apple Quality* - ***EDA*** and ***Classification*** Models - [link](https://www.kaggle.com/code/igiengineer/simple-eda-and-classification-models)
 This project is a part of the kaggle.com dataset, which goal was to predict whether the apple quality is good or bad.
+
+
+# Also, these projects can be found on my GitHub profile.
