@@ -8,4 +8,4 @@ This project is a part of the kaggle.com competition, which goal was to predict 
 This project is a part of the kaggle.com dataset, which goal was to predict whether the apple quality is good or bad.
 
 
-# Also, these projects can be found on my GitHub profile.
+### Also, these projects can be found on my GitHub profile.
